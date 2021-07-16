@@ -16,7 +16,8 @@
                     <li class="breadcrumb-item"><a href="{{ route('backend.dashboard') }}">Dashboard</a></li>
                     <li class="breadcrumb-item active">Faq</li>
                 </ol>
-                <a href="{{ route('backend.faq.create') }}" class="btn btn-info d-none d-lg-block m-l-15"><i class="fa fa-plus-circle"></i> Create Faq</a>
+                <a href="{{ route('backend.faq.create') }}" class="btn btn-info d-none d-lg-block m-l-15"><i
+                        class="fa fa-plus-circle"></i> Create Faq</a>
             </div>
         </div>
     </div>
@@ -36,18 +37,19 @@
                         <div class="table-responsive">
                             <table id="datatable" class="display table table-striped table-bordered">
                                 <thead>
-                                <tr>
-                                    <th>Question</th>
-                                    <th>Action</th>
-                                </tr>
+                                    <tr>
+                                        <th>Question</th>
+                                        <th>Action</th>
+                                    </tr>
                                 </thead>
                                 <tbody>
 
                                 </tbody>
                                 <tfoot>
-                                <tr>
-                                    <th>Question</th>
-                                </tr>
+                                    <tr>
+                                        <th>Question</th>
+                                        <th>Action</th>
+                                    </tr>
                                 </tfoot>
                             </table>
                         </div>
@@ -71,13 +73,13 @@
                 serverSide: true,
                 ajax: '{!! route('backend.faq.index') !!}',
                 columns: [{
-                    data: 'question',
-                    name: 'question'
-                },
-                {
-                    data: 'action',
-                    name: 'action'
-                },
+                        data: 'question',
+                        name: 'question'
+                    },
+                    {
+                        data: 'action',
+                        name: 'action'
+                    },
                 ],
                 initComplete: function() {
                     this.api().columns().every(function() {
@@ -91,6 +93,5 @@
                 }
             });
         });
-
     </script>
 @endpush

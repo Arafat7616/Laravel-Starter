@@ -8,7 +8,7 @@
 <!-- ============================================================== -->
 <!-- Preloader - style you can find in spinners.css -->
 <!-- ============================================================== -->
-    @include('layouts.backend.includes.loader')
+    {{-- @include('layouts.backend.includes.loader') --}}
 <!-- ============================================================== -->
 <!-- Main wrapper - style you can find in pages.scss -->
 <!-- ============================================================== -->

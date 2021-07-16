@@ -8,7 +8,7 @@
     <!-- ============================================================== -->
     <!-- Preloader - style you can find in spinners.css -->
     <!-- ============================================================== -->
-   @include('layouts.auth.includes.loader')
+   {{-- @include('layouts.auth.includes.loader') --}}
 
     @yield('content')
 
