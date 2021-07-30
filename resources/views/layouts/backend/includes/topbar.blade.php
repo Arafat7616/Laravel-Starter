@@ -129,7 +129,7 @@
                                 <div class="message-center">
                                     <!-- Message -->
                                     <a href="javascript:void(0)">
-                                        <div class="user-img"> <img src="../assets/images/users/1.jpg"
+                                        <div class="user-img"> <img src="../assets/backend/images/users/1.jpg"
                                                                     alt="user" class="img-circle"> <span
                                                     class="profile-status online pull-right"></span> </div>
                                         <div class="mail-contnet">
@@ -139,7 +139,7 @@
                                     </a>
                                     <!-- Message -->
                                     <a href="javascript:void(0)">
-                                        <div class="user-img"> <img src="../assets/images/users/2.jpg"
+                                        <div class="user-img"> <img src="../assets/backend/images/users/2.jpg"
                                                                     alt="user" class="img-circle"> <span
                                                     class="profile-status busy pull-right"></span> </div>
                                         <div class="mail-contnet">
@@ -149,7 +149,7 @@
                                     </a>
                                     <!-- Message -->
                                     <a href="javascript:void(0)">
-                                        <div class="user-img"> <img src="../assets/images/users/3.jpg"
+                                        <div class="user-img"> <img src="../assets/backend/images/users/3.jpg"
                                                                     alt="user" class="img-circle"> <span
                                                     class="profile-status away pull-right"></span> </div>
                                         <div class="mail-contnet">
@@ -159,7 +159,7 @@
                                     </a>
                                     <!-- Message -->
                                     <a href="javascript:void(0)">
-                                        <div class="user-img"> <img src="../assets/images/users/4.jpg"
+                                        <div class="user-img"> <img src="../assets/backend/images/users/4.jpg"
                                                                     alt="user" class="img-circle"> <span
                                                     class="profile-status offline pull-right"></span> </div>
                                         <div class="mail-contnet">
@@ -194,16 +194,16 @@
                                     <div class="carousel-inner" role="listbox">
                                         <div class="carousel-item active">
                                             <div class="container"> <img class="d-block img-fluid"
-                                                                         src="../assets/images/big/img1.jpg" alt="First slide"></div>
+                                                                         src="../assets/backend/images/big/img1.jpg" alt="First slide"></div>
                                         </div>
                                         <div class="carousel-item">
                                             <div class="container"><img class="d-block img-fluid"
-                                                                        src="../assets/images/big/img2.jpg" alt="Second slide">
+                                                                        src="../assets/backend/images/big/img2.jpg" alt="Second slide">
                                             </div>
                                         </div>
                                         <div class="carousel-item">
                                             <div class="container"><img class="d-block img-fluid"
-                                                                        src="../assets/images/big/img3.jpg" alt="Third slide"></div>
+                                                                        src="../assets/backend/images/big/img3.jpg" alt="Third slide"></div>
                                         </div>
                                     </div>
                                     <a class="carousel-control-prev" href="#carouselExampleControls"

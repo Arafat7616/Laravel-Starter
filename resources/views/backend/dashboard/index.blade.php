@@ -187,7 +187,7 @@
                                                 class="font-medium">Your Mind</span> and you also
                                             <br />laugh at the moment</h4>
                                         <div class="d-flex no-block">
-                                                        <span><img src="../assets/images/users/1.jpg" alt="user"
+                                                        <span><img src="../assets/backend/images/users/1.jpg" alt="user"
                                                                    width="50" class="img-circle"></span>
                                             <span class="m-l-10">
                                                             <h4 class="text-white m-b-0">Govinda</h4>
@@ -200,7 +200,7 @@
                                                 class="font-medium">Your Mind</span> and you also
                                             <br />laugh at the moment</h4>
                                         <div class="d-flex no-block">
-                                                        <span><img src="../assets/images/users/2.jpg" alt="user"
+                                                        <span><img src="../assets/backend/images/users/2.jpg" alt="user"
                                                                    width="50" class="img-circle"></span>
                                             <span class="m-l-10">
                                                             <h4 class="text-white m-b-0">Govinda</h4>
@@ -213,7 +213,7 @@
                                                 class="font-medium">Your Mind</span> and you also
                                             <br />laugh at the moment</h4>
                                         <div class="d-flex no-block">
-                                                        <span><img src="../assets/images/users/3.jpg" alt="user"
+                                                        <span><img src="../assets/backend/images/users/3.jpg" alt="user"
                                                                    width="50" class="img-circle"></span>
                                             <span class="m-l-10">
                                                             <h4 class="text-white m-b-0">Govinda</h4>
@@ -248,7 +248,7 @@
                 <div class="comment-widgets" id="comment" style="height: 629px;position: relative;">
                     <!-- Comment Row -->
                     <div class="d-flex no-block comment-row">
-                        <div class="p-2"><span class="round"><img src="../assets/images/users/1.jpg"
+                        <div class="p-2"><span class="round"><img src="../assets/backend/images/users/1.jpg"
                                                                   alt="user" width="50"></span></div>
                         <div class="comment-text w-100">
                             <h5 class="font-medium">James Anderson</h5>
@@ -268,7 +268,7 @@
                     </div>
                     <!-- Comment Row -->
                     <div class="d-flex no-block comment-row border-top">
-                        <div class="p-2"><span class="round"><img src="../assets/images/users/2.jpg"
+                        <div class="p-2"><span class="round"><img src="../assets/backend/images/users/2.jpg"
                                                                   alt="user" width="50"></span></div>
                         <div class="comment-text active w-100">
                             <h5 class="font-medium">Michael Jorden</h5>
@@ -288,7 +288,7 @@
                     </div>
                     <!-- Comment Row -->
                     <div class="d-flex no-block comment-row border-top">
-                        <div class="p-2"><span class="round"><img src="../assets/images/users/3.jpg"
+                        <div class="p-2"><span class="round"><img src="../assets/backend/images/users/3.jpg"
                                                                   alt="user" width="50"></span></div>
                         <div class="comment-text w-100">
                             <h5 class="font-medium">Johnathan Doeting</h5>
@@ -308,7 +308,7 @@
                     </div>
                     <!-- Comment Row -->
                     <div class="d-flex no-block comment-row border-top">
-                        <div class="p-2"><span class="round"><img src="../assets/images/users/4.jpg"
+                        <div class="p-2"><span class="round"><img src="../assets/backend/images/users/4.jpg"
                                                                   alt="user" width="50"></span></div>
                         <div class="comment-text active w-100">
                             <h5 class="font-medium">Genelia doe</h5>
@@ -375,7 +375,7 @@
                         <tbody>
                         <tr>
                             <td class="text-center">1</td>
-                            <td class="txt-oflo">DataTech BD - Admin</td>
+                            <td class="txt-oflo">Admin-Panel</td>
                             <td><span class="badge badge-success badge-pill">sale</span> </td>
                             <td class="txt-oflo">April 18, 2017</td>
                             <td><span class="text-success">$24</span></td>
@@ -577,16 +577,16 @@
                                     </label>
                                 </div>
                                 <ul class="assignedto">
-                                    <li><img src="../assets/images/users/1.jpg" alt="user"
+                                    <li><img src="../assets/backend/images/users/1.jpg" alt="user"
                                              data-toggle="tooltip" data-placement="top" title=""
                                              data-original-title="Steave"></li>
-                                    <li><img src="../assets/images/users/2.jpg" alt="user"
+                                    <li><img src="../assets/backend/images/users/2.jpg" alt="user"
                                              data-toggle="tooltip" data-placement="top" title=""
                                              data-original-title="Jessica"></li>
-                                    <li><img src="../assets/images/users/3.jpg" alt="user"
+                                    <li><img src="../assets/backend/images/users/3.jpg" alt="user"
                                              data-toggle="tooltip" data-placement="top" title=""
                                              data-original-title="Priyanka"></li>
-                                    <li><img src="../assets/images/users/4.jpg" alt="user"
+                                    <li><img src="../assets/backend/images/users/4.jpg" alt="user"
                                              data-toggle="tooltip" data-placement="top" title=""
                                              data-original-title="Selina"></li>
                                 </ul>
@@ -611,10 +611,10 @@
                                     </label>
                                 </div>
                                 <ul class="assignedto">
-                                    <li><img src="../assets/images/users/3.jpg" alt="user"
+                                    <li><img src="../assets/backend/images/users/3.jpg" alt="user"
                                              data-toggle="tooltip" data-placement="top" title=""
                                              data-original-title="Priyanka"></li>
-                                    <li><img src="../assets/images/users/4.jpg" alt="user"
+                                    <li><img src="../assets/backend/images/users/4.jpg" alt="user"
                                              data-toggle="tooltip" data-placement="top" title=""
                                              data-original-title="Selina"></li>
                                 </ul>
@@ -639,10 +639,10 @@
                                     </label>
                                 </div>
                                 <ul class="assignedto">
-                                    <li><img src="../assets/images/users/3.jpg" alt="user"
+                                    <li><img src="../assets/backend/images/users/3.jpg" alt="user"
                                              data-toggle="tooltip" data-placement="top" title=""
                                              data-original-title="Priyanka"></li>
-                                    <li><img src="../assets/images/users/4.jpg" alt="user"
+                                    <li><img src="../assets/backend/images/users/4.jpg" alt="user"
                                              data-toggle="tooltip" data-placement="top" title=""
                                              data-original-title="Selina"></li>
                                 </ul>
@@ -660,7 +660,7 @@
                         <div class="message-widget message-scroll">
                             <!-- Message -->
                             <a href="javascript:void(0)">
-                                <div class="user-img"> <img src="../assets/images/users/1.jpg" alt="user"
+                                <div class="user-img"> <img src="../assets/backend/images/users/1.jpg" alt="user"
                                                             class="img-circle"> <span
                                         class="profile-status online pull-right"></span> </div>
                                 <div class="mail-contnet">
@@ -671,7 +671,7 @@
                             </a>
                             <!-- Message -->
                             <a href="javascript:void(0)">
-                                <div class="user-img"> <img src="../assets/images/users/2.jpg" alt="user"
+                                <div class="user-img"> <img src="../assets/backend/images/users/2.jpg" alt="user"
                                                             class="img-circle"> <span
                                         class="profile-status busy pull-right"></span> </div>
                                 <div class="mail-contnet">
@@ -691,7 +691,7 @@
                             </a>
                             <!-- Message -->
                             <a href="javascript:void(0)">
-                                <div class="user-img"> <img src="../assets/images/users/4.jpg" alt="user"
+                                <div class="user-img"> <img src="../assets/backend/images/users/4.jpg" alt="user"
                                                             class="img-circle"> <span
                                         class="profile-status offline pull-right"></span> </div>
                                 <div class="mail-contnet">
@@ -701,7 +701,7 @@
                             </a>
                             <!-- Message -->
                             <a href="javascript:void(0)">
-                                <div class="user-img"> <img src="../assets/images/users/1.jpg" alt="user"
+                                <div class="user-img"> <img src="../assets/backend/images/users/1.jpg" alt="user"
                                                             class="img-circle"> <span
                                         class="profile-status online pull-right"></span> </div>
                                 <div class="mail-contnet">
@@ -711,7 +711,7 @@
                             </a>
                             <!-- Message -->
                             <a href="javascript:void(0)">
-                                <div class="user-img"> <img src="../assets/images/users/2.jpg" alt="user"
+                                <div class="user-img"> <img src="../assets/backend/images/users/2.jpg" alt="user"
                                                             class="img-circle"> <span
                                         class="profile-status busy pull-right"></span> </div>
                                 <div class="mail-contnet">
@@ -733,7 +733,7 @@
                         <ul class="chat-list">
                             <!--chat Row -->
                             <li>
-                                <div class="chat-img"><img src="../assets/images/users/1.jpg" alt="user">
+                                <div class="chat-img"><img src="../assets/backend/images/users/1.jpg" alt="user">
                                 </div>
                                 <div class="chat-content">
                                     <h5>James Anderson</h5>
@@ -744,7 +744,7 @@
                             </li>
                             <!--chat Row -->
                             <li>
-                                <div class="chat-img"><img src="../assets/images/users/2.jpg" alt="user">
+                                <div class="chat-img"><img src="../assets/backend/images/users/2.jpg" alt="user">
                                 </div>
                                 <div class="chat-content">
                                     <h5>Bianca Doe</h5>
@@ -770,7 +770,7 @@
                             </li>
                             <!--chat Row -->
                             <li>
-                                <div class="chat-img"><img src="../assets/images/users/3.jpg" alt="user">
+                                <div class="chat-img"><img src="../assets/backend/images/users/3.jpg" alt="user">
                                 </div>
                                 <div class="chat-content">
                                     <h5>Angelina Rhodes</h5>

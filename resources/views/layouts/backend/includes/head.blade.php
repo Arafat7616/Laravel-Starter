@@ -10,9 +10,11 @@
 <!-- Favicon icon -->
 <link rel="icon" type="image/png" sizes="16x16" href="{{ asset(get_static_option('fav_icon') ?? get_static_option('no_image')) }}">
 <!-- chartist CSS -->
-<link href="{{ asset('assets/backend/node_modules/morrisjs/morris.css') }}" rel="stylesheet">
+{{-- <link href="{{ asset('assets/backend/node_modules/morrisjs/morris.css') }}" rel="stylesheet"> --}}
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.css">
 <!--Toaster Popup message CSS -->
-<link href="{{ asset('assets/backend/node_modules/toast-master/css/jquery.toast.css') }}" rel="stylesheet">
+{{-- <link href="{{ asset('assets/backend/node_modules/toast-master/css/jquery.toast.css') }}" rel="stylesheet"> --}}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-toast-plugin/1.3.2/jquery.toast.css" integrity="sha512-8D+M+7Y6jVsEa7RD6Kv/Z7EImSpNpQllgaEIQAtqHcI0H6F4iZknRj0Nx1DCdB+TwBaS+702BGWYC0Ze2hpExQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <!-- Custom CSS -->
 <link href="{{ asset('assets/backend/dist/css/style.min.css') }}" rel="stylesheet">
 <!-- Dashboard 1 Page CSS -->
