@@ -101,18 +101,6 @@
                         </li>
                     </ul>
                 </li>
-
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-
-                <li> <a target="_blank" href="http://html.jhumu.me/admin-html/colors/" >Template</a>
-
-                </li>
             </ul>
         </nav>
         <!-- End Sidebar navigation -->
