@@ -40,6 +40,8 @@ class BlogController extends Controller
                 ->rawColumns(['writer','status','image','action'])
                 ->make(true);
         }else{
+            // $data = Blog::orderBy('id', 'desc')->get();
+            // dd($data);
             return view('backend.website.blog.index');
         }
     }
