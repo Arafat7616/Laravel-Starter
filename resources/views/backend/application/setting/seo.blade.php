@@ -1,5 +1,5 @@
 @push('title')
-    dashboard
+    Seo
 @endpush
 @extends('layouts.backend.app')
 @push('style')

@@ -1,40 +1,34 @@
+# Laravel Starter## General info
+This project is a simple backend completed with general needs .Theres have
+    *Faq
+    *Blog
+    *Testimonial
+    *Gallery
+    *Partner
+    *Custom Page
+    *Application setting(Seo,logo and image,Social,App,Company detail,Custom script,Facebook Page,Map Link,Footer credit)
+
+## Note 
+    If anyone Look any problem or bug please give me pull request . I will marge it.
+
+	
+## Technologies
+Project is created with:
+* laravel:   8.50.0
+* Javascript
+* Bootstrap
+	
 ## Setup
-create a database named `login`
+To run this project, install it locally using laravel:
 
-run,
-```sh
-	composer install && npm install && cp .env.example .env && php artisan key:generate && composer require laravel/passport && php artisan migrate && php artisan passport:install && npm run dev
-```
-Then, edit \vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php
-
-```php
-    protected $middlewarePriority = [
-		\App\Http\Middleware\StudentProvider::class,
-		\App\Http\Middleware\FacilitatorProvider::class,
-		\App\Http\Middleware\InstitutionProvider::class,
-...
-];
 ```
 
-make sure to add at the top of `$middlewarePriority`
-
-### In case of fresh migration
-```sh
-php artisan migrate:fresh && php artisan passport:install --force && php artisan serve
+$ run command "composer  install"
+$ copy .env.example to .env file name && cerate a database 
+$ run command "php artisan key:generate"
+$ run command "php artisan migrate:fresh --seed"
 ```
 
-### To Upload Large Video File
-Update post_max_size and upload_max_filesize in php.ini
-
-### Third party software
-
-#### Graphviz - generate er diagram
-Setup [Graphviz](https://graphviz.org/), add to env variable and run
-```sh
-php artisan generate:erd
-```
-#### FFMPEG - Video Conversion
-download [FFMPEG](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z) , add location to server environment variable and .env
-
-> NB: Image Rendering requires php [exif](https://www.php.net/manual/en/exif.installation.php) extension to be enabled
-
+## Credentials 
+Authentication is not applied
+ hit on : BaseUrL/backend/dashboard
